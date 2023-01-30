@@ -13,6 +13,16 @@ module.exports = {
       'buttons': '377dff',
       'text-orange': 'ea5e60',
     },
+    fontFamily: {
+      lato: ['Lato', 'sans-serif'],
+    },
+    fontSize: {
+      tittleSize: '46px',
+      subtitleSize: '24px',
+      cardsTitleSize: '21px',
+      normalText: '16px'
+    }
+
   },
   plugins: [],
 }
