@@ -6,20 +6,20 @@ module.exports = {
   ],
   theme: {
     colors: {
-      'tittle': '#1e2022',
+      'title': '#1e2022',
       'subtitle': '#677788',
-      'cards-tittle': '#001b4d',
+      'cards': '#001b4d',
       'bg-footer': '#001b4d',
-      'buttons': '377dff',
-      'text-orange': 'ea5e60',
+      'buttons': '#377dff',
+      'alternative': '#ea5e60',
     },
     fontFamily: {
       lato: ['Lato', 'sans-serif'],
     },
     fontSize: {
-      tittleSize: '46px',
+      titleSize: '46px',
       subtitleSize: '24px',
-      cardsTitleSize: '21px',
+      cardsSize: '21px',
       normalText: '16px'
     }
 
